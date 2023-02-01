@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(194, 100%, 31%);
+    margin: 0%;
+}
+.container{
+    color: #ddd;
+    max-width: 1000px;
+    padding: 1.5rem;
+    
+}
+.answer{
+
+}
+li{
+    display: inline;
+    margin: 10px;
+    color: hsl(194,100%,70%)
+}
+
+.t1{
+ width: 500px;
+}
+table,th,td{
+    border: 1px solid white;
+    border-collapse:collapse;
+    
+}
+.female{
+    background-color: #ccc;
+    color:black;
+    
+}
+.male{
+    background-color: #bbb;
+    color:black
+
+}
+th{
+    text-align: center;
+}
+.t2{
+    width: 500px;
+}
+.t2 .male{
+    display: none;
+    
+}

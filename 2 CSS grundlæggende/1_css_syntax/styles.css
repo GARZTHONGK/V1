@@ -1,0 +1,32 @@
+body{
+    background-color: azure;
+}
+
+#main{
+    color:orange;
+    font-size: 30px;
+}
+.question{
+    color:lightseagreen;
+    font-size: 18px;
+}
+.answer{
+    color:lightslategray;
+    font-size: 18px;
+}
+
+    #para1 {
+    
+    text-align: center;
+    color:greenyellow;
+}
+Table{
+    width: 600px;
+
+}
+Table,tr,td,th{
+    border: 1px solid black;
+}
+body,#main,.question,.answer,#para1,Table,tr,td,th{
+    font-weight: bold;
+}

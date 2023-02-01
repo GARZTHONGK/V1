@@ -1,0 +1,62 @@
+body{
+    background-image: url(/img/Zig-Zag.svg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    max-width: 1000px;
+    margin:auto;
+}
+article{
+    border: 5px brown;
+    border-style: solid none solid none;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    display: table;
+    
+}
+
+
+article img{
+    float: right;
+    height:auto;
+    width: auto;
+}
+.layout{
+    border: 5px brown;
+    border-style:  none none solid none;
+    
+    padding-top: 0px;
+}
+.layout h2{
+    background-color: white;
+    width: auto;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+.layout header{
+    background-color: darkcyan;
+    margin: 0px;
+    height: 5rem;
+}
+.layout aside{
+    float: left;
+    width: 20%;
+    height: 15rem;
+    background-color: yellow;
+}
+.layout main{
+    float: right;
+    width: 80%;
+    height: 15rem;
+    background-color: orange;
+}
+.layout footer{
+    clear: both;
+    height: 5rem;
+    width: 100%;
+    background-color: red;
+}

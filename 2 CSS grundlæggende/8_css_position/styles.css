@@ -1,0 +1,43 @@
+h4{
+    background-color: hsla(39, 100%, 50%, 0.7);
+    color: purple;
+    position:relative;
+    top:300px;
+    font-size: 36px;
+    left: 50px;
+}
+.parent{
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+#img1{
+    position: absolute;
+    
+    
+}
+#img2{
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    
+}
+#img3{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+}
+#img4{
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    
+}
+#img5{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    
+}

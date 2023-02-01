@@ -1,0 +1,54 @@
+html{
+    font-size: 1rem;
+}
+
+.list{
+
+    height: 300px;
+    width: 500px;
+    background-color: #292d7b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #fbf6df;
+        list-style-image: url(/img/shop.svg);
+        margin-top: auto;
+}
+#Indkøbsliste{
+    color: #d7752c;
+    line-height: 60px;
+    
+}
+#Dagligvarer{
+    color: #9497db;
+    left: 100px;
+}
+
+#Indkøbsliste,#DagligVarer,.list{
+    <!--line-height: 28px;
+    
+}
+
+.table{
+    font-size: 28px;
+    width: 400px;
+    font-size: 2vw;
+    <!--background-color: #fbf6df;
+    overflow-x:auto;
+    
+}
+table{
+    width: 2000px;
+    border-collapse: collapse;    
+}
+table:hover{
+    background-color: #ddd;
+}
+table,th,td{
+    border: 1px solid;
+    font-size: smaller;
+    
+}
+th{
+    background-color: #292d7b;
+    color: white;
+    font-size: smaller;
+}
